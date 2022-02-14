@@ -16,13 +16,11 @@ body {
     border-radius: 10px;
 }
 
-input[type=text],
-input[type=button] {
+input[type=text], input[type=button] {
     font-size: 1.2rem;
     background: #c2c2c2;
     border: none;
     border-radius: 10px;
-
 }
 
 input[type=text] {
