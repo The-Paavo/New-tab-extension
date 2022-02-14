@@ -1,0 +1,23 @@
+{
+    "htmlLang": {
+        "message": "en"
+    },
+    "extensionName": {
+        "message": "My new tab page"
+    },
+    "extensionDesc": {
+        "message": "Replace the new tab page with user defined address."
+    },
+    "urlDesc": {
+        "message": "New tab page address. Only http/https addresses or internal browser pages."
+    },
+    "focusDesc": {
+        "message": "Leave focus in the address bar"
+    },
+    "saveBtnText": {
+        "message": "Save"
+    },
+    "savedAddrDesc": {
+        "message": "Saved address"
+    }
+}
