@@ -8,7 +8,16 @@ Koodi ei sisällä ylimääräistä tauhkaa, eikä ota yheyttä mihinkään, saa
 
 ![Kuvakaappaus](/extra-stuff/Store_Pic_640x400-fi.png)
 
-## Varoitukset
+## Asennus ja varoitukset
+
+Asenna lisäosa Microsoft Edgen lisäosakaupasta tai Chromen Web Storesta. Voit asentaa sen myös manuaalisesti pakkaamattomana lisäosana.
+
+<table>
+<tr>
+<td><a href="https://microsoftedge.microsoft.com/addons/detail/koeekebjmifffhmjaoholoapkbnbheii"><img valign="middle" src="./extra-stuff/svg-edge.svg" width="32" height="32" alt=""> Microsoft Edge -lisäosat</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/cgodnmeogfkkmmolmcijbhnnhlhlliod"><img valign="middle" src="./extra-stuff/svg-chrome.svg" width="32" height="32" alt=""> Chrome Web Store</a></td>
+</tr>
+</table>
 
 Selaimet varoittavat tästä lisäosasta asennusvaiheessa, koska tämä haluaa korvata selaimen oman sisäisen `newtab` osoitteen uudella. Noudata varoituksen ohjeita ja ota tämä lisäosa käyttöön manuaalisesti asennuksen jälkeen, jos haluat lisäosan toimivan.
 
@@ -36,7 +45,16 @@ The code does not contain any extra fluff, and does not connect to anywhere, let
 
 ![Screenshot](/extra-stuff/Store_Pic_640x400-en.png)
 
-## Warnings
+## Installation and warnings
+
+Install this extension from Microsoft Edge Add-ons website or Chrome Web Store. You can also install it manually as an unpacked extension.
+
+<table>
+<tr>
+<td><a href="https://microsoftedge.microsoft.com/addons/detail/koeekebjmifffhmjaoholoapkbnbheii"><img valign="middle" src="./extra-stuff/svg-edge.svg" width="32" height="32" alt=""> Microsoft Edge Add-ons</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/cgodnmeogfkkmmolmcijbhnnhlhlliod"><img valign="middle" src="./extra-stuff/svg-chrome.svg" width="32" height="32" alt=""> Chrome Web Store</a></td>
+</tr>
+</table>
 
 Browsers will warn you about this extension during the installation phase, as this will replace the browser's own internal `newtab` address with a new one. Follow the instructions in the warning and enable this extension manually after installation if you want the extension to work.
 
