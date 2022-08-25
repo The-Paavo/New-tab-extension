@@ -1,0 +1,23 @@
+{
+    "htmlLang": {
+        "message": "fi"
+    },
+    "extensionName": {
+        "message": "Oma uusi välilehti"
+    },
+    "extensionDesc": {
+        "message": "Korvaa uusi välilehti haluamallasi osoitteella."
+    },
+    "urlDesc": {
+        "message": "Uuden välilehden osoite. Vain http/https-osoitteet tai selaimen sisäiset osoitteet."
+    },
+    "focusDesc": {
+        "message": "Jätä kohdistus osoiteriville"
+    },
+    "saveBtnText": {
+        "message": "Tallenna"
+    },
+    "savedAddrDesc": {
+        "message": "Tallennettu osoite"
+    }
+}
